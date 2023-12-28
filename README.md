@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science and trying to become a software engineer
 - 🌱 I’m currently learning JavaScript, Python, CSS, and HTML
 - 💞️ I’m looking to collaborate on multple projects 
-- 📫 To reach me, my email is bikram.6104@taehs.org, instagram - bikramm.s, twitter - BikramS_ 
+- 📫 To reach me, my email is bikram.6104@gmail.com, instagram - bikramm.s, twitter - BikramS_ 
 
 <!---
 BikramSingh04/BikramSingh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
